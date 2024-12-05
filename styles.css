@@ -1,0 +1,19 @@
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+background-image: url('https://img.freepik.com/vector-gratis/fondo-futurista-degradado-geometrico_23-2149116406.jpg'); /* Cambia la URL por la imagen de tu elección */
+background-size: cover; 
+background-position: center;
+background-repeat: no-repeat;
+height: 100vh; 
+}
+
+
+.card {
+background: rgba(255, 255, 255, 0.85); 
+border-radius: 10px;
+}
