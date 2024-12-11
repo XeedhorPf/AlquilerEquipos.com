@@ -1,10 +1,10 @@
 <?php
     class basedatos{
         private $con;
-		private $dbequipo='localhost';
-		private $dbusuario='root';
-		private $dbclave='';
-		private $dbnombre='alquiler';
+		private $dbequipo='sql302.infinityfree.com';
+		private $dbusuario='if0_37534988';
+		private $dbclave='vcjf01TeuY8';
+		private $dbnombre='if0_37534988_Alquiler_equipos';
 
         //constructor	
 		function __construct(){
